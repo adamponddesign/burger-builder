@@ -1,5 +1,9 @@
-# burger-builder
-## personal project 
+# **Burger Builder**
+## Personal Side Project
 
-# utilising 
-# React 
+### Technologies, frameworks and packages
+
+* JavaScript (ES6)
+* React
+* Webpack
+* GitHub
