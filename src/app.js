@@ -1,10 +1,15 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
+import Layout from './components/Layout/Layout'
 
 class App extends React.Component {
   render() {
     return (
-      <h1>Burger Builder</h1>
+      <div>
+        <Layout>
+          <p>Test</p>
+        </Layout>
+      </div>
     )
   }
 }
